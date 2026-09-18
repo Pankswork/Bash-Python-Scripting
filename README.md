@@ -1,4 +1,2 @@
-# Demo
-TO check status of files and folder
-
-hello
+# Bash and Python
+Posting Bash and Python scripts while i learn.
