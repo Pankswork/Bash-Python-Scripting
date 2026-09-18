@@ -1,0 +1,5 @@
+2026-09-13 12:01:14 - Starting backup process for ./myapp to ./backups
+2026-09-13 12:01:14 - Created destination directory: ./backups
+2026-09-13 12:01:14 - INFO: Backup created successfully
+2026-09-13 12:01:14 - INFO: Backup verified: ./backups/myapp_2026-09-13_120114.tar.gz
+2026-09-13 12:01:14 - INFO: Backup process completed successfully
